@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nikimcgregor.github.io/carriage-and-core/sitemap.xml
